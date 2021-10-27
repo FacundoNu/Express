@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Remera blanca",
+    "price": 500,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_730430-MLA30343873669_052019-O.jpg",
+    "id": 1
+  },
+  {
+    "title": "Jean negro",
+    "price": 1200,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_673137-MLA46657121705_072021-W.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatillas Nike",
+    "price": 10000,
+    "thumbnail": "https://www.tripstore.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/3/1/314193-117_0_1.jpg",
+    "id": 3
+  }
+]
